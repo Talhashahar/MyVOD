@@ -1,4 +1,5 @@
 #include "client.h"
+//testing push
 
 
 client::client(string id, string name, string location, SmartPtr <viewAble> _currentView)
