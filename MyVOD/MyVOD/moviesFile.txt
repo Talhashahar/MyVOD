@@ -1,0 +1,31 @@
+#this will be the movie database file.
+#the order of input is as follows :
+#ID,Name,Runtime, oscarWinner
+V2E3G9,owl gone risky,187,true
+P8T3X8,gone polite,192,true
+T3E7M9,connectedness aquarium timeless,134,true
+X4O7P1,checkpoint flaming wise,156,false
+D7I7G6,believer collide orb,191,false
+B7H6C8,fragile aquarium risky,209,false
+C9B5A1,fragile,180,false
+W3U8J8,aquarium polite hour,105,false
+G0T7Z4,mystical polite,156,false
+W5Z1G4,wise gone,42,true
+Z8R4P8,risky 134,false
+Z3C9L5,aerial,33,false
+A6D3B0,gone flaming,200,true
+H8C5D1,mystical flaming,182,false
+R7P7L2,fossil orb collide,78,false
+Z6A0R3,fossil fragile aerial,122,false
+T5W5T9,diamond polite,114,false
+X4A1I1,owl fragile,192,false
+U3A3E5,large believer,113,false
+G0L0N4,timeless aerial, collide,37,false
+H8G6Q4,cocoon mystical,210,false
+W1E0Z6,quick large owl,115,false
+F5G5V6,cocoon believer,216,false
+X2X1S8,connectedness,161,false
+Z1P4R2,mystical aquarium cocoon,118,false
+U0D8P5,aerial hoofs,229,true
+M6Q9C2,fragile,109,false
+B8F4P2,risky,160,true

@@ -1,0 +1,61 @@
+#printSeries	- prints all the series available.
+#printMovies - prints all the movies available.
+#printInactives - prints all the users who are currently not watching any viewable.
+#user:someid - a users requests to watch a viewable with the id
+#user:stop - user requests to stop watching the viewable.
+#update  - will make all the clients call the playViewAble method, which advances their view time.
+#printItem:id - prints the matching series details, including how many people are watching them, and what are their ids.
+printSeries
+printMovies
+printInactives
+S2E5T4ZF2K:BCS01E5
+K0P2B4VL0B:H8C5D1
+update
+L1S4D7HP8F:W3U8J8
+S2E5T4ZF2K:BCS01E8
+update
+update
+D2J1H5RQ4T:R7P7L2
+K0P2B4VL0B:stop
+K0P2B4VL0B:R7P7L2
+printItem:R7P7L2
+M6H1M5XB6L:R7P7L2
+Q4H4V8WV2C:R7P7L2
+G2L4Q2HG0T:R7P7L2
+R4M9M2ZY5F:R7P7L2
+G6Q8S7JH2F:R7P7L2
+V2U5Q7CZ0N:R7P7L2
+printItem:R7P7L2
+update
+update
+update
+update
+R4M9M2ZY5F:stop
+V2U5Q7CZ0N:stop
+G2L4Q2HG0T:stop
+printItem:R7P7L2
+R4M9M2ZY5F:T5W5T9
+G2L4Q2HG0T:U0D8P5
+V2U5Q7CZ0N:U3A3E5
+L1S4D7HP8F:T5W5T9
+printInactives
+update
+update
+update
+update
+update
+update
+update
+printInactives
+update
+update
+update
+update
+update
+update
+printInactives
+#are we done yet?
+update
+printInactives
+#etc, this might go on for a while.
+

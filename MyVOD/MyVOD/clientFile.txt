@@ -1,0 +1,44 @@
+
+#This is the client file which you will load in to your program. you can create even more clients!   try my new favourite tool : http://www.generatedata.com/ 
+#input strcture is the following :
+#ID,Name,Location
+S2E5T4ZF2K,Miranda Franco,Albania
+D8T3R5FY0S,Hop Warren,Latvia
+Y0C4E3RE8T,Mark K. Coleman,Samoa
+X4W1Z6HX6V,Declan U. Hooper,China
+H2L8A9DV3D,Jason Knapp,Singapore
+V4F1X1EU7F,Cheryl R. Washington,Kiribati
+D2J1H5RQ4T,Axel Holland,Equatorial Guinea
+K0P2B4VL0B,Iona Beach,Tunisia
+T4N6C3QV1V,Fleur Mcconnell,Portugal
+V2U5Q7CZ0N,Ebony B. Smith,Puerto Rico
+K5C1X2SV4C,Jada K. Santana,Turkey
+I8M6A8CE0Q,Vaughan H. Burgess,Micronesia
+M2G8H3GT1Z,Ina E. Copeland,Netherlands
+L3F0K0QA5J,Nola B. Morales,Iran
+H9B2F7CC1B,Cheyenne Dunn,Poland
+U8E9W4OE8Z,Erasmus Logan,Japan
+O2E8F5IJ9L,Hedda Sawyer,Martinique
+U8J6D7WG5X,Armand Foley,Cayman Islands
+R4O5J0BI1U,Jescie Reese,Seychelles
+K6V2C3MT7F,Kellie Morrow,China
+G6Q8S7JH2F,Ruth Lewis,Iceland
+T6X5X9AB5F,Lewis Mason,Ghana
+L1S4D7HP8F,Phillip G. Dunlap,Austria
+M6H1M5XB6L,Jade P. Merrill,French Southern Territories
+P4O9J3OD0B,Hayley D. Rios,Algeria
+Q4H4V8WV2C,Theodore M. Sanders,Germany
+T6M6K9BP7X,Amery J. Gross,Martinique
+T9L7Z9NZ0S,Nissim Watts,Sierra Leone
+H8J0L9LE2P,Uriel R. Durham,Benin
+W5G3W6EF5R,Travis Francis,Mali
+E3S4Q6GD3G,Harding W. Weiss,Côte D'Ivoire (Ivory Coast)
+V6L8K1UY7N,Chelsea T. Gomez,United States
+V1Z8Z9SK5I,Ivor Y. Oliver,Namibia
+K7T3O3TI0P,Kibo Mckenzie,Qatar
+R4M9M2ZY5F,Dylan Baldwin,Macedonia
+M0K1S0UK7D,Christen Wallace,Grenada
+Y1N4H0ED4E,Hannah Y. Bray,Seychelles
+C6R7I2WZ6Y,Forrest Q. Barton,Mozambique
+G2L4Q2HG0T,Chancellor Waller,Venezuela
+Y3H5R6OF4M,Debra W. Nieves,Burkina Faso
